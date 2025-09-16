@@ -1,0 +1,5 @@
+<Files "token.json">
+    Order allow,deny
+    Deny from all
+</Files>
+# Pas de RewriteEngine ni RewriteBase ici

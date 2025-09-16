@@ -1,0 +1,8 @@
+{
+  "name": "cyberopsx-hub/cyberopsx-smtp",
+  "description": "Plugin WordPress SMTP OAuth CyberOpsX",
+  "type": "wordpress-plugin",
+  "require": {
+    "phpmailer/phpmailer": "^6.8"
+  }
+}
